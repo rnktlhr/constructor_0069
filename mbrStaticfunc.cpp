@@ -46,5 +46,6 @@ int main(){
     mhs3.prinALL();
     mhs4.prinALL();
 
+    cout << "akses dari luar object= " << Mahasiswa::getNim() << endl;
     return 0;
 }
