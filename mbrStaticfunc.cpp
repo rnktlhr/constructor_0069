@@ -18,8 +18,9 @@ class mahasiswa{
         mahasiswa(string pnama):nama(pnama){
             setID();
         }
-        
 };
+
+int mahasiswa::nim = 100;
 
 
 int main(){
