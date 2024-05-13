@@ -18,6 +18,8 @@ class mahasiswa{
 
 };
 
+int mahasiswa::nim = 20;
+
 int main(){
 
 }
