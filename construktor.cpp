@@ -15,6 +15,14 @@ class Mahasiswa{
         Mahasiswa(int iNim){
             nim = iNim;
         };
+        Mahasiswa(string);
+        Mahasiswa(int iNim, string iNama);
+        void cetak(){
+            cout << "NIM   =" << nim << endl;
+            cout << "Nama  =" << nama << endl;
+            cout << endl;
+            
+        }
 };
 
 int main(){
