@@ -2,6 +2,9 @@
 #include <string>
 using namespace std;
 
-int main(){
+class maasiswa{
     
+};
+int main(){
+
 }
